@@ -390,7 +390,7 @@
     sliderButton.on('click', function(el) {
       el.preventDefault();
 
-      var mainSectionId   = $( $(this).closest('.porifolio-section') ),
+      var mainSectionId   = $( $(this).closest('.portfolio-section') ),
           dataElement     = $(this).attr('data-element'),
           dataHeading     = '.each-portfolio-heading',
           sliderId        = mainSectionId.find('.slider'),
@@ -427,7 +427,7 @@
     sliderBackButton.on('click', function(el) {
       el.preventDefault();
 
-      var mainSectionId   = $( $(this).closest('.porifolio-section') ),
+      var mainSectionId   = $( $(this).closest('.portfolio-section') ),
           dataHeading     = '.each-portfolio-heading',
           sliderId        = mainSectionId.find('.slider'),
           projectDetailId = mainSectionId.find('.project-detail'),

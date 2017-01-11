@@ -1727,15 +1727,18 @@ section.section {
  * Portfolio Section Style
  * ========================================
  */
-.porifolio-section .section-separator {
+.portfolio-section {
+  /** min-height: 804px; */
+}
+.portfolio-section .section-separator {
   padding: 0;
   margin-top: 35px;
   margin-bottom: 35px;
 }
-.porifolio-section .section-separator.sp-top {
+.portfolio-section .section-separator.sp-top {
   margin-bottom: 0px;
 }
-.porifolio-section .section-separator.sp-bottom {
+.portfolio-section .section-separator.sp-bottom {
   margin-top: 0px;
 }
 /**
