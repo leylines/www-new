@@ -298,7 +298,7 @@ h6 {
   color: #ffd939;
 }
 .section-header {
-  margin-bottom: 35px;
+  margin-bottom: 70px;
   text-align: center;
 }
 .section-header .line-outer {
@@ -327,8 +327,8 @@ section.section {
  */
 .section-separator {
   display: block;
-  padding-top: 35px;
-  padding-bottom: 35px;
+  padding-top: 115px;
+  padding-bottom: 115px;
 }
 .section-separator.sp-top {
   padding-bottom: 0px;
@@ -1566,7 +1566,7 @@ section.section {
  * ========================================
  */
 .services-section {
-  min-height: 655px;
+  min-height: 650px;
 }
 .services-section .each-services .each-services-inner {
   padding: 20px 40px 0 40px;
@@ -1732,8 +1732,8 @@ section.section {
 }
 .portfolio-section .section-separator {
   padding: 0;
-  margin-top: 35px;
-  margin-bottom: 35px;
+  margin-top: 115px;
+  margin-bottom: 115px;
 }
 .portfolio-section .section-separator.sp-top {
   margin-bottom: 0px;
@@ -1897,7 +1897,7 @@ section.section {
 }
 .line {
   width: 1px;
-  height: 75px;
+  height: 115px;
   background-color: #ffd939;
   position: relative;
 }
